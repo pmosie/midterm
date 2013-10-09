@@ -1,3 +1,5 @@
-html {
-	background-color:green;
+
+body {
+	background-image:url('images/platformTX.jpg');
+	background-size: contain;
 }
