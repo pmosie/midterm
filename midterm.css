@@ -1,5 +1,29 @@
 
-body {
-	background-image:url('images/platformTX.jpg');
-	background-size: contain;
+  body {
+	background-image: url('images/cityTX.jpg');
+	background-repeat:no-repeat;
+	
 }
+
+.banner, h1 {
+	font-family: Playbill;
+	text-align: center;
+	font-size: 200px;
+}
+
+ h2, h3 {
+		color:#900000;
+		font-family: Playbill;
+		font-size: 30px;
+		
+}
+
+html{
+	background-color: grey;
+}
+
+
+p {
+	color: white;
+}
+
