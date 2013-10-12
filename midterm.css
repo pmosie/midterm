@@ -34,6 +34,8 @@ p {
 .design-selection, .design-archives, .zen-resources {
 	border-width: 1px 4px 12px 4px;
 	border-style: double;
+	margin: 15px;
+
 }
 
 
