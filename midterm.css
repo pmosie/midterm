@@ -35,7 +35,11 @@ p {
 	border-width: 1px 4px 12px 4px;
 	border-style: double;
 	margin: 15px;
-
+	/* float: right; */
 }
 
+.participation, .benefits, .requirements, .main supporting, .preamble, .explanation, h2, .summary{
+	border: solid black;
+	
+}
 
