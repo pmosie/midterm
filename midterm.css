@@ -15,7 +15,7 @@
 }
 
  h2, h3 {
-		color:#900000;
+		color:#DAA520;
 		font-family: Playbill;
 		font-size: 30px;
 		
@@ -28,6 +28,12 @@ html{
 
 p {
 	color: white;
+	font-family: Baskerville Old Face;
+}
+
+.design-selection, .design-archives, .zen-resources {
+	border-width: 1px 4px 12px 4px;
+	border-style: double;
 }
 
 
