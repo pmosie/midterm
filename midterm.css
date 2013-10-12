@@ -2,6 +2,7 @@
   body {
 	background-image: url('images/cityTX.jpg');
 	background-repeat:no-repeat;
+	position: absolute;
 	
 }
 
