@@ -21,6 +21,13 @@
 		
 }
 
+h2 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
 html{
 	background-color: grey;
 }
@@ -39,11 +46,9 @@ p {
    
 }
 
-.participation, .benefits, .requirements, .main supporting, .preamble, .explanation, h2, .summary{
+.participation, .benefits, .requirements, .main supporting, .preamble, .explanation, .summary{
 	border: solid black;
 
-	
-	
 }
 
 
