@@ -38,7 +38,13 @@ p {
 	/* float: right; */
 }
 
-.participation, .benefits, .requirements, .main supporting, .preamble, .explanation, h2, .summary{
+.participation
+.benefits 
+.requirements 
+.main supporting
+.preamble
+.explanation 
+h2, .summary{
 	border: solid black;
 	
 }
