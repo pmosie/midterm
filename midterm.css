@@ -18,18 +18,14 @@
 		color:#DAA520;
 		font-family: Playbill;
 		font-size: 30px;
-		
+		text-transform: uppercase;
+		text-shadow: 5px 5px #00008B;
+		letter-spacing: 2px;
 }
-
-h2 {
-	margin-left: auto;
-	margin-right: auto;
-}
-
 
 
 html{
-	background-color: grey;
+	background-color: #A0522D;
 }
 
 
@@ -38,17 +34,29 @@ p {
 	font-family: Baskerville Old Face;
 }
 
+
 .design-selection, .design-archives, .zen-resources {
 	border-width: 1px 4px 12px 4px;
 	border-style: double;
 	margin: 15px;
     float: bottom;
+    background-color: #F0F8FF;
+    
+  
    
 }
 
-.participation, .benefits, .requirements, .main supporting, .preamble, .explanation, .summary{
+ .participation, .benefits, .requirements, .main supporting, .preamble, .explanation, .summary{
 	border: solid black;
-
+	width: 500px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #663300;
+	
 }
 
-
+ {
+	position: absolute;
+	left: 50px;
+	right: 50px;
+}
